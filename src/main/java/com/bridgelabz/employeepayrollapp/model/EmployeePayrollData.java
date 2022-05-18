@@ -1,6 +1,6 @@
-package com.bridgelabz.employeepayroll.model;
+package com.bridgelabz.employeepayrollapp.model;
 
-import com.bridgelabz.employeepayroll.dto.EmployeePayrollDTO;
+import com.bridgelabz.employeepayrollapp.dto.EmployeePayrollDTO;
 
 import lombok.Data;
 
